@@ -1,0 +1,6 @@
+{
+    "Conventions": "CF-1.7",
+    "GMT_version": "6.0.0 [64-bit]",
+    "history": "surface @GMTAPI@-000000 -G/tmp/pygmt-vozbjo_j.nc -I1s -R-130.02/-129.94/45.9/45.96",
+    "title": "Data gridded with continuous surface splines in tension"
+}

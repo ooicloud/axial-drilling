@@ -4,3 +4,4 @@
 *.mat
 *.m
 *.DS_Store
+bathy.zarr

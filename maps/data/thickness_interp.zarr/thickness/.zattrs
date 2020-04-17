@@ -1,0 +1,11 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "lat",
+        "lon"
+    ],
+    "actual_range": [
+        440.2185974121094,
+        1080.70263671875
+    ],
+    "long_name": "z"
+}
