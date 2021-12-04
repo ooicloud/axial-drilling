@@ -5,3 +5,4 @@
 *.m
 *.DS_Store
 bathy.zarr
+gmt.history
